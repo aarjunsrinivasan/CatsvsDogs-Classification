@@ -28,9 +28,13 @@ Dependencies:
 
 Code 1:
 tensorflow 1.14
+
 tflearn 
+
 cv2
+
 csv
+
 mathplotlib as plt
 
 
