@@ -5,6 +5,7 @@ Project 6 Submission - ENPM673 - Perception for Autonomous Robotics
 Instructions for running the codes:
 
 Code 1:Download the data set,unzip and give the path as in your local computer.
+
 Code 2:We have reorganized the dataset which we are providing you via a sharable link.
 
 Directories: Make sure the data set is in the folder:
